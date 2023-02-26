@@ -1,0 +1,14 @@
+.text-badge {
+}
+
+.banner {
+}
+
+.projects {
+  --bs-gutter-y: 1.5rem;
+}
+
+footer {
+  background: var(--bs-gray-900);
+}
+
